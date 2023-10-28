@@ -1,0 +1,13 @@
+/* .container{
+    background-color: beige;
+    max-width: 80%;
+    align-items: center;
+} */
+body{
+    background-color: beige;
+    font-family: Verdana;
+    text-align: center;
+}
+.pagetitle{
+    color: black;
+}
